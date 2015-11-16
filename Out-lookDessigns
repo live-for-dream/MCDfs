@@ -1,0 +1,5 @@
+Descriptions:
+    Our MCDfs is a filesystem and is dessigned for next three usages:
+    1, pure memery storing
+    2, local disk storing
+    3, disk filesystem cluster
